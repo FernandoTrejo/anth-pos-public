@@ -1,4 +1,4 @@
-@import"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap";@media screen and (min-width: 1400px){.modal .modal-right-side{margin-right:0!important;margin-top:0!important}.modal .modal-right-side .modal-content .modal-body .row .scrollable-column{max-height:calc(100vh - 230px);overflow-y:auto}}.product-card-1{width:150px;height:150px}.product-card-image{margin-top:2px;width:146px;max-height:90px}.scrollable-column{max-height:calc(100vh - 230px);overflow-y:auto}@charset "UTF-8";/*!
+@import"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap";@media screen and (min-width: 720px){.modal .modal-right-side{margin-right:0!important;margin-top:0!important}.modal .modal-right-side .modal-content .modal-body .row .scrollable-column{max-height:calc(100vh - 230px);overflow-y:auto}}.product-card-1{height:150px}.product-card-image{margin-top:2px;max-height:90px}.scrollable-column{max-height:calc(100vh - 230px);overflow-y:auto}@charset "UTF-8";/*!
  * Bootstrap  v5.2.3 (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
