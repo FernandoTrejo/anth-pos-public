@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1685555115047,
+  "timestamp": 1685634180714,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.eebf7b23bc808440.js",
+        "/main.fc6dd01e16e269ec.js",
         "/manifest.webmanifest",
         "/polyfills.d6079bdf5f67a0ae.js",
         "/runtime.c09db767ccc1ae5f.js",
@@ -191,6 +191,9 @@
         "/assets/img/themesberg-logo-alt.svg",
         "/assets/img/themesberg-mockup.jpg",
         "/assets/img/themesberg.svg",
+        "/assets/js/dependencies/rsvp-3.1.0.min.js",
+        "/assets/js/dependencies/sha-256.min.js",
+        "/assets/js/qz-tray.js",
         "/assets/js/volt.js"
       ],
       "patterns": []
@@ -359,10 +362,13 @@
     "/assets/img/themesberg-logo-alt.svg": "eaf3822450a4d85df266bf4017f309c196bcc895",
     "/assets/img/themesberg-mockup.jpg": "649bd75ae6580688e2b2c72cb74d04dc85b208c7",
     "/assets/img/themesberg.svg": "144b895b258eead083941d39eb103bf1a91b96b8",
+    "/assets/js/dependencies/rsvp-3.1.0.min.js": "da9628c6e08be667ad1245fea86b7717f5f9dc80",
+    "/assets/js/dependencies/sha-256.min.js": "f27486cd3b13454d8d309253afe593350587e030",
+    "/assets/js/qz-tray.js": "ff11ab2d15e008326b7390e4b139675fc9ae3529",
     "/assets/js/volt.js": "85c25bb04b550c9ec8ea3a6a41547b7a5cb69210",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "2670f99166c4e1d78ffa8d38fa58289aa7cfcb9c",
-    "/main.eebf7b23bc808440.js": "6f5d4a7e3fb4b720855468a2e91862c6506145e3",
+    "/index.html": "f87db3ec8612643e30f780b2ef2f95d145923273",
+    "/main.fc6dd01e16e269ec.js": "667b133b7bfde096598b33d481a93c24f1ab5e61",
     "/manifest.webmanifest": "e8024161e59dcbed78ed5cd7a3ce0294a4a8a657",
     "/polyfills.d6079bdf5f67a0ae.js": "6f54e0b85e046f7c17f6a4f76bfeb585c10f5dc9",
     "/runtime.c09db767ccc1ae5f.js": "3d7737ff310e8535c3f72bd15bb49e97d1db72f5",
